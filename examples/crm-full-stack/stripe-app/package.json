@@ -6,7 +6,7 @@
   "license": "~~proprietary~~",
   "dependencies": {
     "@stripe/ui-extension-sdk": "^8.3.0",
-    "axios": "^0.27.2",
+    "axios": "^0.28.0",
     "moment": "^2.29.4",
     "react": "^18.2.0",
     "stripe": "^10.12.0"
