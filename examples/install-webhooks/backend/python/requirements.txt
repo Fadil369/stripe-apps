@@ -7,7 +7,7 @@ itsdangerous==2.1.2
 python-dotenv==0.20.0
 certifi==2021.10.8
 charset-normalizer==2.0.12
-idna==3.3
+idna==3.7
 requests==2.27.1
 stripe==3.0.0
 urllib3==1.26.9
